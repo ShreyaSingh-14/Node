@@ -17,3 +17,14 @@ res.end(`<!DOCTYPE html>
 }).listen(8080);
 console.log("Server running at http://localhost:8080/");
 // This code creates a simple HTTP server that listens on port 8080 and responds with "Hello World" when accessed.
+// project/
+//  ├── controller/
+//  │    └── mapController.js
+//  ├── model/
+//  │    └── addModel.js
+//  ├── service/
+//  │    └── addService.js
+//  ├── route/
+//  │    └── mapRoute.js
+//  ├── app.js
+//  └── server.js
