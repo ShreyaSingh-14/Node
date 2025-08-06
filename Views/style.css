@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.logo img{
+    height: 30px;
+    width:30px;
+    display: flex;
+}
+.submenu{
+    display: flex;
+    gap: 20px;
+}
+.search{
+    background-color: gray;
+    border-color:aliceblue;
+}
